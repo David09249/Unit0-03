@@ -1,0 +1,53 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{73, 93}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "show_hello_world_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Click Me!",
+          "uuid" : "6857F774-FA91-403A-9E83-271FD8FFDA68",
+          "class" : "Button",
+          "name" : "clickme_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{187, 220}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "hello_world_label",
+          "border_width" : 0,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "9828D3B6-C60B-4BCA-BA9C-3D658FA7AE3B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "corner_radius" : 0,
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

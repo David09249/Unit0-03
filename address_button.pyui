@@ -1,0 +1,87 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{64, 49}, {95, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "show_address_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Click Me!",
+          "uuid" : "425C3ABA-4EE7-4EFB-A2D1-FEA87C9E0333",
+          "class" : "Button",
+          "name" : "clickme_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{189, 143}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "CBA51C8F-78C2-4948-8B5E-98D046C324DC",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "name_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{189, 214}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "844DBC24-C72A-46FD-A7C0-D8B7512F252C",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "city_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{189, 284}, {150, 31}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "6B1458D1-FFFF-4087-9F39-59DF79980F93",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "country_label",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
